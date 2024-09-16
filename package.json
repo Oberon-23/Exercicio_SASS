@@ -4,13 +4,13 @@
   "main": "index.js",
 
   "scripts": {
-    "sass": "sass/src/main.scss build/main.css --watch",
+    "sass": "sass src/main.scss build/main.css --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 
 "repository": {
     "type": "git",
-    "url": ""
+    "url": "git remote add origin https://github.com/Oberon-23/Exercicio_SASS.git"
   },
 
   "author": "",
